@@ -1,3 +1,23 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF5cXJlNDE5ZXUxZ2hzZDFuZ21vNXE1NHAybmUwdHdhZzducXE3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="mailto:haivv.se@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://discordapp.com/users/813281719191863366" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+  <a href="https://www.facebook.com/VuVanHai.02" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+</div>
+
+###
+
 # 👋 Hi there, I'm Vũ Văn Hải
 🫶 I’m a passionate Fullstack Developer with a strong foundation in .NET and a growing interest in AI. I enjoy building practical solutions through code and constantly strive to improve my skills every day.<br><br>💡 With hands-on experience in both frontend and backend development — and some exposure to DevOps practices — I take pride in delivering clean, scalable, and maintainable software. Beyond coding, I also have a creative side with a background in design and photography, which helps me think more holistically about user experience.<br><br>🌱 I'm currently expanding my knowledge in AI and always open to learning new technologies to become a well-rounded global citizen in tech.<br><br>Let’s connect and build something meaningful together!
 
