@@ -5,14 +5,14 @@
 ###
 
 <div align="center">
-  <a href="mailto:haivv.se@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <a href="mailto:haivv.se@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-haivv.se@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/>
   </a>
-  <a href="https://discordapp.com/users/813281719191863366" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <a href="https://discordapp.com/users/813281719191863366">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.facebook.com/VuVanHai.02" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  <a href="https://www.facebook.com/VuVanHai.02">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
 
