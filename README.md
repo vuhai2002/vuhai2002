@@ -7,3 +7,9 @@
 # 📊 My GitHub contributions summary:
 ![](https://github-readme-stats.vercel.app/api?username=vuhai2002&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vuhai2002&theme=dracula&hide_border=false)<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vuhai2002/vuhai2002/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vuhai2002/vuhai2002/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vuhai2002/vuhai2002/output/github-snake.svg" />
+</picture>
