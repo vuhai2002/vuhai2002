@@ -2,7 +2,7 @@
 
 # Vũ Văn Hải
 
-**Backend Developer @ CES Global**
+**Backend Developer**
 
 Node.js | TypeScript | PostgreSQL | DevOps
 
@@ -27,13 +27,13 @@ Ho Chi Minh City, Vietnam
 
 ## About
 
-Backend developer with **2.5 years of experience**, currently at **CES Global**, where I own the entire backend of the company's live CRM and course-commerce platform: **204 endpoints, 42 tables, 17 cron jobs**, serving the internal CRM, a digital document library and ~12 campaign landing pages.
+Backend developer with **2.5 years of experience**, currently owning the entire backend of a CRM and course-commerce platform running in production.
 
 What I actually spend my days on:
 
-- **Third-party integration** - bank-transfer payments, Vietnamese e-invoicing (MISA meInvoice), transactional and marketing email at 11,000+ recipients, OAuth, object storage.
+- **Third-party integration** - payment gateways, Vietnamese e-invoicing, transactional and marketing email at scale, OAuth, object storage.
 - **Idempotent, concurrency-safe PostgreSQL design** - partial unique indexes as business locks, advisory locks, compare-and-swap over pessimistic locking.
-- **Production operations** - cron runners with overlap protection, bank reconciliation, order rescue, bulk imports. Scripts are idempotent, dry-run by default, and back up before writing.
+- **Production operations** - cron runners with overlap protection, payment reconciliation, order rescue, bulk imports. Scripts are idempotent, dry-run by default, and back up before writing.
 - **Self-managed infrastructure** - 12 Dockerized services on a hardened Ubuntu VPS I secure, back up and monitor myself. Containers run non-root behind host Caddy, with encrypted off-host database backups.
 - **AI agent engineering** - I ship agents to production, not demos: self-written agent loops, tool-permission models, layered prompt-injection defense, token budgeting, and evals that run against real models.
 
@@ -44,13 +44,13 @@ Background: .NET / C# / ASP.NET Core / SQL Server. Still fluent, just not where 
 
 <br>
 
-Backend developer với **2.5 năm kinh nghiệm**, hiện làm tại **CES Global**, nơi tôi tự dựng và vận hành **toàn bộ backend** của nền tảng CRM + bán khóa học đang chạy production: **204 endpoint, 42 bảng, 17 cron job**, phục vụ đồng thời CRM nội bộ, thư viện tài liệu số và khoảng 12 landing page bán khóa học.
+Backend developer với **2.5 năm kinh nghiệm**, hiện tự dựng và vận hành **toàn bộ backend** của một nền tảng CRM + bán khóa học đang chạy production.
 
 Những mảng tôi làm hằng ngày:
 
-- **Tích hợp bên thứ ba** - thanh toán chuyển khoản, hóa đơn điện tử (MISA meInvoice), email giao dịch và email marketing quy mô 11.000+ người nhận, OAuth, object storage.
+- **Tích hợp bên thứ ba** - cổng thanh toán, hóa đơn điện tử, email giao dịch và email marketing ở quy mô lớn, OAuth, object storage.
 - **Thiết kế PostgreSQL chống trùng và an toàn khi đồng thời** - chỉ mục duy nhất bộ phận làm khóa nghiệp vụ, advisory lock, compare-and-swap thay cho khóa bi quan.
-- **Vận hành production** - cron runner có chống chạy đè, đối soát ngân hàng, cứu đơn hàng lỗi, nhập dữ liệu hàng loạt. Script viết theo hướng chạy lại được, mặc định dry-run, sao lưu trước khi ghi.
+- **Vận hành production** - cron runner có chống chạy đè, đối soát thanh toán, cứu đơn hàng lỗi, nhập dữ liệu hàng loạt. Script viết theo hướng chạy lại được, mặc định dry-run, sao lưu trước khi ghi.
 - **Tự quản hạ tầng** - 12 dịch vụ Docker trên VPS Ubuntu do tôi tự hardening, tự backup, tự giám sát. Container chạy non-root sau Caddy trên host, backup CSDL mã hóa trước khi rời máy.
 - **AI agent engineering** - tôi đưa agent ra production chứ không dừng ở demo: agent loop tự viết, mô hình phân quyền công cụ, phòng prompt injection nhiều lớp, quản lý ngân sách token, và bộ eval chạy trên model thật.
 
